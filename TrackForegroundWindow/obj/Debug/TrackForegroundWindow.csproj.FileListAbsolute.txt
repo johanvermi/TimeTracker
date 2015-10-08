@@ -1,0 +1,14 @@
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\bin\Debug\TrackForegroundWindow.exe.config
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\bin\Debug\TrackForegroundWindow.exe
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\bin\Debug\TrackForegroundWindow.pdb
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.csprojResolveAssemblyReference.cache
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\MainWindow.g.cs
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\App.g.cs
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow_MarkupCompile.cache
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow_MarkupCompile.lref
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\MainWindow.baml
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.g.resources
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.Properties.Resources.resources
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.csproj.GenerateResource.Cache
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.exe
+c:\users\johan.vermeulen\documents\visual studio 2015\Projects\TrackForegroundWindow\TrackForegroundWindow\obj\Debug\TrackForegroundWindow.pdb
